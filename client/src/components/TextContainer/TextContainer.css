@@ -1,0 +1,9 @@
+.textContainer{
+  font-size: 10px;
+  margin-left:20px ;
+
+}
+.activeItem{
+  float:left;
+  margin-right:13px ;
+}
