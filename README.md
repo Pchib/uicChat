@@ -1,4 +1,4 @@
 # uicChat
-##Demo app
+## Demo app
 
 http://uicchat.herokuapp.com/
